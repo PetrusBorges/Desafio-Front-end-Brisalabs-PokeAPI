@@ -4,6 +4,8 @@
 
 Repositório criado exclusivamente para o Desafio Front End Brisalabs, o desafio consiste no desenvolvimento de uma aplicação Web a ser desenvolvida utilizando as tecnologias ReactJS, Styled Components, Context API, Requisições a API.
 
+[Desafio PokeAPI - Brisalabs](https://desafio-front-end-brisalabs-poke-api.vercel.app)
+
 https://user-images.githubusercontent.com/105453766/195246776-a653fb09-818e-4307-a905-23a91f4fee89.mp4
 
 ## 📋 Projeto:
