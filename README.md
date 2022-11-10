@@ -6,7 +6,7 @@ Repositório criado exclusivamente para o Desafio Front End Brisalabs, o desafio
 
 [Desafio PokeAPI - Brisalabs](https://desafio-front-end-brisalabs-poke-api.vercel.app)
 
-https://user-images.githubusercontent.com/105453766/195246776-a653fb09-818e-4307-a905-23a91f4fee89.mp4
+https://user-images.githubusercontent.com/105453766/201225137-cbb5e4bf-2af1-479c-98ad-71b5157397a4.mp4
 
 ## 📋 Projeto:
 
