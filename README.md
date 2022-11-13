@@ -16,25 +16,25 @@ O projeto foi dividido e implementado nos seguintes níveis:
 
 * Básico
 
-  * Login (Página Login);
-  * Realizar login e armazenar o token no localstorage;
-  * Verificar se já existe uma sessão salva (token no localstorage), caso sim, redirecionar para a página de "Ver todos", caso não deve retornar para o login;
-  * Listagem completa (Página Ver todos)
-  * Deve listar registros da API limitando apenas 20 itens;
+  * [X] Login (Página Login);
+  * [X] Realizar login e armazenar o token no localstorage;
+  * [X] Verificar se já existe uma sessão salva (token no localstorage), caso sim, redirecionar para a página de "Ver todos", caso não deve retornar para o login;
+  * [X] Listagem completa (Página Ver todos)
+  * [X] Deve listar registros da API limitando apenas 20 itens;
 
 * Intermediário
 
-  * Deve ser possível filtrar através dos botões(Página Ver todos);
-  * Busca e Listagem (Página Procurar)
-  * Deve ser possível realizar a busca por um pokémon específico;
-  * Deve listar, abaixo, todos os registros encontrados;
-  * Deve ser posível ver os detalhes do pokémon em um modal, exibindo as informações contidas no layout;
+  * [X] Deve ser possível filtrar através dos botões(Página Ver todos);
+  * [X] Busca e Listagem (Página Procurar)
+  * [X] Deve ser possível realizar a busca por um pokémon específico;
+  * [X] Deve listar, abaixo, todos os registros encontrados;
+  * [X] Deve ser posível ver os detalhes do pokémon em um modal, exibindo as informações contidas no layout;
 
 * Avançado
 
-  * Favoritar pokémons e exibir na página "Favoritos"
-  * Exibir a quantidade de pokémons no menu e na página de favoritos
-  * Tema escuro
+  * [X] Favoritar pokémons e exibir na página "Favoritos"
+  * [X] Exibir a quantidade de pokémons no menu e na página de favoritos
+  * [X] Tema escuro
 
 ## 🛠️ Feito com:
 
