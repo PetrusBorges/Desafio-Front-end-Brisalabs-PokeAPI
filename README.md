@@ -28,7 +28,7 @@ O projeto foi dividido e implementado nos seguintes níveis:
   * [X] Busca e Listagem (Página Procurar)
   * [X] Deve ser possível realizar a busca por um pokémon específico;
   * [X] Deve listar, abaixo, todos os registros encontrados;
-  * [X] Deve ser posível ver os detalhes do pokémon em um modal, exibindo as informações contidas no layout;
+  * [X] Deve ser possível ver os detalhes do pokémon em um modal, exibindo as informações contidas no layout;
 
 * Avançado
 
