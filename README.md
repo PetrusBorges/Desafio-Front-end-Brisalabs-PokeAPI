@@ -32,9 +32,9 @@ O projeto foi dividido e implementado nos seguintes níveis:
 
 * Avançado
 
-  * [X] Favoritar pokémons e exibir na página "Favoritos"
-  * [X] Exibir a quantidade de pokémons no menu e na página de favoritos
-  * [X] Tema escuro
+  * [X] Favoritar pokémons e exibir na página "Favoritos";
+  * [X] Exibir a quantidade de pokémons no menu e na página de favoritos;
+  * [X] Tema escuro;
 
 ## 🛠️ Feito com:
 
